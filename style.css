@@ -23,7 +23,7 @@ body{
     left: 0.2%;
 }
 .logo{
-    background-image: url("/images/The_Shop.png");
+    background-image: url("The_Shop.png");
     height: 80px;
     width: 100%;
     background-size: contain;
@@ -270,7 +270,7 @@ body{
     background-color: #1B1A55;
     height: 350px;
     width: 100%;
-    background-image: url("/images/NEW\ ARRIVALS.png");
+    background-image: url("NEW ARRIVALS.png");
     background-size: contain;
     background-repeat: no-repeat;
     display: flex;
@@ -328,28 +328,28 @@ body{
 }
 
 .box1 .box-img{
-    background-image: url("/images/box_1_img.jpg");
+    background-image: url("box_1_img.jpg");
 }
 .box2 .box-img{
-    background-image: url("/images/box_2_img.jpg");
+    background-image: url("box_2_img.jpg");
 }
 .box3 .box-img{
-    background-image: url("/images/box_3_img.jpg");
+    background-image: url("box_3_img.jpg");
 }
 .box4 .box-img{
-    background-image: url("/images/box_4_img.jpg");
+    background-image: url("box_4_img.jpg");
 }
 .box5 .box-img{
-    background-image: url("/images/box_5_img.jpg");
+    background-image: url("box_5_img.jpg");
 }
 .box6 .box-img{
-    background-image: url("/images/box_6_img.jpg");
+    background-image: url("box_6_img.jpg");
 }
 .box7 .box-img{
-    background-image: url("/images/box_7_img.jpg");
+    background-image: url("box_7_img.jpg");
 }
 .box8 .box-img{
-    background-image: url("/images/box_8_img.jpg");
+    background-image: url("box_8_img.jpg");
 }
 
 .container3{
@@ -380,22 +380,22 @@ body{
     cursor: pointer;
 }
 .c3-box1{
-    background-image: url("/images/c3_b1_img.jpg");
+    background-image: url("c3_b1_img.jpg");
 }
 .c3-box2{
-    background-image: url("/images/c3_b2_img.jpg");
+    background-image: url("c3_b2_img.jpg");
 }
 .c3-box3{
-    background-image: url("/images/c3_b3_img.jpg");
+    background-image: url("c3_b3_img.jpg");
 }
 .c3-box4{
-    background-image: url("/images/c3_b4_img.jpg");
+    background-image: url("c3_b4_img.jpg");
 }
 .c3-box5{
-    background-image: url("/images/c3_b5_img.jpg");
+    background-image: url("c3_b5_img.jpg");
 }
 .c3-box6{
-    background-image: url("/images/c3_b6_img.jpg");
+    background-image: url("c3_b6_img.jpg");
 }
 
 /** footer **/
